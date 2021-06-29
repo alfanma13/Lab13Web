@@ -4,4 +4,5 @@
 # Kelas : TI 19 B2
 
 # 1. Buat Table User
-![1](https://user-images.githubusercontent.com/81576195/123725871-1652b300-d8b9-11eb-99e6-d9318e28183a.png)
+![1](https://user-images.githubusercontent.com/81576195/123726328-f96aaf80-d8b9-11eb-8cd1-53f4410648df.png)
+
